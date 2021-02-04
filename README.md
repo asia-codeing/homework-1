@@ -1,2 +1,5 @@
 # homework-1
-Code Refactor Assignment
+Code Refactor 
+* Refactor the code by using HTML Semantic Elements
+
+
