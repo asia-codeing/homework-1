@@ -4,7 +4,7 @@
 * In this project I am doing code refactoring for the website by using HTML Semantic Elements.
 * The Semantic Elements make the websites more accessible.
 
-# Things apply on the code:
+# Things applied on the code:
 * HTML Semantic Elements :
  -Header tag: Specifies a header for a document or section.
  -Nav tag: Defines navigation links.
